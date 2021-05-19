@@ -7,12 +7,19 @@
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }/* Basic Style */
+.head{
+    font-size:0.5rem;
+    color: #333;
+  font-family: Lato, sans-serif;
+  font-family: sans-serif;
+    
+}
 body {
   /*background: #fff;*/
   color: #333;
   font-family: Lato, sans-serif;
   font-family: sans-serif;
-  background: url(pic.jpg) no-repeat;
+  background: url(pic.png) no-repeat;
   background-size: cover;
 
 }
