@@ -19,7 +19,7 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
   font-family: sans-serif;
-  background: url(picture.png) no-repeat;
+  background: url("picture.png") no-repeat;
   background-size: cover;
 
 }
